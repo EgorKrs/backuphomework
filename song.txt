@@ -1,3 +1,4 @@
-������ 1
+﻿line 1
 строка 2
 language test
+more lines
